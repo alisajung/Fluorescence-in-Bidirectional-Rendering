@@ -1,5 +1,5 @@
-# Fluorescence-in-Bidirectional-Rendering
-My master's thesis on fluorescence in bidirectional rendering
+# Fluorescence in Bidirectional Rendering
+My master thesis on fluorescence in bidirectional rendering
 ## Abstract
 Fluorescence - the effect of a photon being absorbed at one
 wavelength and re-emitted at another - is present in many
